@@ -1,0 +1,19 @@
+THINGS TO DO
+Version:  Beta 2.0
+
+	Create an Item ID array, like Terraria
+Create the 2nd, maybe 3rd, Area for the update (Forest 1, Forest 2)
+		Add dialogue----NEXT UPDATE
+		Add the cutscenes for each new area----NEXT UPDATE
+	Add the Agility STAT
+		Add the Dojo and the things that go with it----NEXT UPDATE
+Fix the shop, make it smaller
+Make any of the other duplication methods smaller
+Do whatever else is in "changelog.txt" for 2.0
+	Change the exp required for each level, increase it a bit
+	Add costs for Ammo and Stampacks
+Add names for the remaining Healer class armours
+Change the lists for armour values
+Add AGL values for the monsters
+		Add clicking mechanic----NEXT UPDATE
+Update some of the menus
